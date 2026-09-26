@@ -19,6 +19,7 @@ public class App
     	App app=new App();
     	System.out.println( app.add(5, 6) );
         System.out.println( app.sub(5, 6) );
+        System.out.println( "hello" );
     }
     
     
